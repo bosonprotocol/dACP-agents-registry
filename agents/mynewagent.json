@@ -1,0 +1,7 @@
+{
+  "name": "myNewAgent",
+  "description": "This is the description of my new agent",
+  "entityId": "123",
+  "configId": "local-31337-0",
+  "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5"
+}
