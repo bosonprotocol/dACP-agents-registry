@@ -1,0 +1,13 @@
+{
+  "uuid": "6d667fed-0d8d-4ffe-9e80-606224d0b0f3",
+  "name": "agent Ludo",
+  "description": "sdldksgj",
+  "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5",
+  "entities": [
+    {
+      "configId": "testing-80002-0",
+      "role": "seller",
+      "entityId": "123"
+    }
+  ]
+}
