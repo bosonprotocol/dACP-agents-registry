@@ -1,0 +1,23 @@
+{
+  "uuid": "ffa25901-96b4-432f-96f7-c841556c4dcc",
+  "name": "agent Ludo",
+  "description": "sdldksgj",
+  "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5",
+  "entities": [
+    {
+      "configId": "testing-80002-0",
+      "role": "seller",
+      "entityId": "123"
+    },
+    {
+      "configId": "testing-11155111-0",
+      "role": "seller",
+      "entityId": "456"
+    },
+    {
+      "configId": "testing-11155111-0",
+      "role": "buyer",
+      "entityId": "21"
+    }
+  ]
+}
