@@ -1,0 +1,7 @@
+{
+  "name": "agent Ludo",
+  "description": "configId has no sense. Better to talk about the env: testing/staging/prod, fixed by the MCP Server itself.\nentityId has no sense, it should be an array of chain/role/entityId because the same agent can have several entityIds (1 sellerId + 1 buyerId), different on each chain.\nWe should not allow an agent to register with an address they don't control?\n",
+  "entityId": "123",
+  "configId": "testing-80002-0",
+  "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5"
+}
