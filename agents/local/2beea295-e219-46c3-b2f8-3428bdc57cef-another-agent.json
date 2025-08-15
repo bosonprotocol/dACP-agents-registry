@@ -1,0 +1,25 @@
+{
+  "uuid": "2beea295-e219-46c3-b2f8-3428bdc57cef",
+  "name": "another agent",
+  "description": "qfmlsfqkfl",
+  "entities": [
+    {
+      "configId": "staging-80002-0",
+      "role": "seller",
+      "entityId": "123",
+      "signerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "configId": "staging-11155111-0",
+      "role": "seller",
+      "entityId": "456",
+      "signerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "configId": "staging-11155111-0",
+      "role": "buyer",
+      "entityId": "21",
+      "signerAddress": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    }
+  ]
+}
