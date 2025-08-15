@@ -1,0 +1,26 @@
+{
+  "uuid": "80406a8c-355a-4762-a8bb-a9a623a1a963",
+  "schemaVersion": "1.0.0",
+  "name": "Cotswolds",
+  "description": "The Cotswolds Distillery Agent sells whisky and gin, direct from distilleries",
+  "entities": [
+    {
+      "configId": "staging-80002-0",
+      "role": "seller",
+      "entityId": "123",
+      "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5"
+    },
+    {
+      "configId": "staging-11155111-0",
+      "role": "seller",
+      "entityId": "456",
+      "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5"
+    },
+    {
+      "configId": "staging-11155111-0",
+      "role": "buyer",
+      "entityId": "21",
+      "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5"
+    }
+  ]
+}
