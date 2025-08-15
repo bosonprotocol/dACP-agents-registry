@@ -1,0 +1,28 @@
+{
+  "uuid": "37905989-64c4-4d1f-9771-5296db821e74",
+  "name": "rgsgdgf",
+  "description": "sddsgsd",
+  "entities": [
+    {
+      "configId": "staging-80002-0",
+      "role": "seller",
+      "entityId": "123",
+      "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5",
+      "signature": "0xbed57e98a85e4ee3164c8c32954873651c7eb40b8074c5c170f740b9b02dfb6671efe91ce55b6775edf953f6a296b3a6c1101f823a1ea7083a91afda7e6392d51c"
+    },
+    {
+      "configId": "staging-11155111-0",
+      "role": "seller",
+      "entityId": "456",
+      "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5",
+      "signature": "0xbab445babac95b451a9dd1ffa51a262ca2ddd5aae8b49263a3b2620da429de334aafd0b09f8fb962679344c649233a96fcd5e87d162f6c6709297e1c209c50081c"
+    },
+    {
+      "configId": "staging-11155111-0",
+      "role": "buyer",
+      "entityId": "21",
+      "signerAddress": "0x1b05Ba94aCc29d0D66a0114a0bC7Daa139153BE5",
+      "signature": "0x358cc8009e5d6eb2e27d7946fdb1b8d8840763c5dc4139a9c044d3bbbc62c8154e12455e004944391054575ec2f543e7a8928d89bdbf732a532f6de2f8570cba1c"
+    }
+  ]
+}
